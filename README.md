@@ -1,2 +1,2 @@
-# Numerical simulations using linear solvers developed for computational fluidn dynamics
+# Numerical simulations using linear solvers developed for computational fluid dynamics
 C-code
